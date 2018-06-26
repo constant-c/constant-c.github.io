@@ -4,15 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is my personal webpage. Here, I write about stuff that I work with or find interesting.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#About Me
+I am a PhD student at [Chalmers University of Technology][chalmers] in Gothenburg, Sweden. 
+As part of the Automation group at the Department of Electrical Engineering, my research focuses on Reinforcement Learning with imperfect experts. 
+Before re-joining Chalmers, I have been a Data Scientist in Perth, Australia. 
+I hold a M.Sc. in Production Engineering from Chalmers and a B.Sc. in Industrial Engineering and Management from the [University of Hamburg][hwi], Germany. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+[chalmers]: https://www.chalmers.se/en/Pages/default.aspx
+[hwi]: https://www.hwi.uni-hamburg.de//
