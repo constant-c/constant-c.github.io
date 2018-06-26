@@ -6,7 +6,8 @@ permalink: /about/
 
 This is my personal webpage. Here, I write about stuff that I work with or find interesting.
 
-#About Me
+About Me
+========
 I am a PhD student at [Chalmers University of Technology][chalmers] in Gothenburg, Sweden. 
 As part of the Automation group at the Department of Electrical Engineering, my research focuses on Reinforcement Learning with imperfect experts. 
 Before re-joining Chalmers, I have been a Data Scientist in Perth, Australia. 
