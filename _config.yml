@@ -19,7 +19,7 @@ description:
   constantin.AI is a blog on Reinforcement Learning and other cool technical stuff written by Constantin Cronrath.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://constantin.ai" # the base hostname & protocol for your site, e.g. http://example.com
-linkedin_username: constantin-cronrath #jekyllrb
+linkedin_username: constantincronrath #jekyllrb
 github_username:  constant-c
 
 # Build settings
