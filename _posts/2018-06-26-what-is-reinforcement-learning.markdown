@@ -25,5 +25,5 @@ observes a state $$s \in S$$, takes action $$a \in A$$ and possibly receives a r
 We call $$S$$ the state space of the MDP and $$A$$ the action space. 
 Given a state $$s$$ and an action $$a$$, the MDP transitions into a new state $$s'$$ following the transition function $$T$$.
 The final element of a MDP is the discount factor $$\gamma$$, which determines the weighting of future rewards.
-An MDP is then formally defined by the tuple \$$\langle S, A, T, R, \gamma \rangle$$.
+An MDP is then formally defined by the tuple $$\langle S, A, T, R, \gamma \rangle$$.
  
