@@ -116,7 +116,7 @@ We then roll out the learned novice policy for another 120 times to evaluate it'
 Similarly, we roll out DAgger for 120 times and train the novice policy over 5 epochs in each roll out. 
 $$\beta = 0.95^i$$ in our experiments, where $$i$$ is the (zero-indexed) number of iterations.
 
-![IL Results](/assets/IL_comparision.png)
+![IL Results](/assets/il_comparision.png)
 
 *Results from the OpenAI Gym environment "Humanoid-v2". Both, DAgger and Behavioural Cloning (BC), share the same architecture of 2 hidden layers of 256 units each. DAgger was trained on 92k samples, BC on 496k.*
 
