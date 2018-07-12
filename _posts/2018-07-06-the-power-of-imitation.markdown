@@ -67,7 +67,7 @@ def dagger(expert_policy, num_rollouts):
                 return novice_policy.predict(s)
                 
         new_data = roll out mixed_policy in environment
-        new_data['actions'] = expert_policy(data['states'])
+        new_data['actions'] = expert_policy(new_data['states'])
 
         # Aggregate data
         data_set = union(data_set, new_data)
