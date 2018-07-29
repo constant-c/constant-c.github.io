@@ -23,9 +23,14 @@ url: "https://constantin.ai" # the base hostname & protocol for your site, e.g. 
 # Google Analytics
 google_analytics: UA-122247454-1
 
+disqus:
+  shortname: disqus_DRLxX13Npe
+
+show_excerpts: true
 
 linkedin_username: c-cronrath
 github_username:  constant-c
+rss: constantin.ai
 
 # Build settings
 markdown: kramdown

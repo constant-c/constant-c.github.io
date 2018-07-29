@@ -36,7 +36,7 @@ Well, we could use the expert by executing (or rolling out) $$\pi^{exp}$$ in the
 And if we do that a few times, we will end up with a nice data set of states and corresponding actions. 
 And if we know a little about supervised machine learning, we could then fit a nice function approximator, such as a neural network, on that.
 The state vectors would be our features, and the actions our labels. 
-So, by the time our expert hits the environment, it already knows what to do, since it got a clone of the expert's behaviour $$\pi^{exp}$$.
+So, by the time our agent hits the environment, it already knows what to do, since it got a clone of the expert's behaviour $$\pi^{exp}$$.
 Could work! But, before I tell you what the problem with this is, let us talk about DAgger.
 
 # Nail Your Data with DAgger  
