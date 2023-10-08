@@ -13,24 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: constantin.AI
-email: contact@constantin.ai
+title: aktor-e.com
+email: contact@aktor-e.com
 description: 
-  constantin.AI is a blog on Reinforcement Learning and other cool technical stuff written by Constantin Cronrath.
+  aktor-e develops factory intelligence software for predictive maintenance, energy efficiency, and operation analytics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://constantin.ai" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://aktor-e.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Google Analytics
 google_analytics: UA-122247454-1
 
-disqus:
-  shortname: constantin-ai
-
 show_excerpts: true
-
-linkedin_username: c-cronrath
-github_username:  constant-c
-rss: constantin.ai
 
 # Build settings
 markdown: kramdown
