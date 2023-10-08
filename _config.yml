@@ -18,12 +18,10 @@ email: contact@aktor-e.com
 description: 
   aktor-e develops factory intelligence software for predictive maintenance, energy efficiency, and operation analytics.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://aktor-e.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://aktor-e.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Google Analytics
 google_analytics: UA-122247454-1
-
-show_excerpts: true
 
 # Build settings
 markdown: kramdown
