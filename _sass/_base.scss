@@ -108,7 +108,7 @@ aside {
             }
         }
     }
-    @media (min-width: 768px) {
+    @media (min-width: 30px) {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
@@ -152,7 +152,7 @@ aside {
 header {
     position: relative;
     width: 100%;
-    min-height: auto;
+    min-height: 40%;
     @include background-cover;
     background-position: center;
     background-image: url('../img/aktor-e_wide.png');
@@ -184,7 +184,7 @@ header {
             }
         }
     }
-    @media (min-width: 736px) {
+    @media (min-width: 768px) {
         min-height: 100%;
         .header-content {
             position: absolute;
